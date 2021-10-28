@@ -1,1 +1,2 @@
 # botvinzz
+# node vinz-bot
